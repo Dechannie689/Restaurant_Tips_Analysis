@@ -1,6 +1,6 @@
 # Restaurant Tips Analysis
 ## 1. Project description
-This project aims to use the restaurant tips dataset to practice creating composition plots and visualizations. We will examine the relationship between different variables and the tips given.
+This project aims to use the restaurant tips dataset to practice creating composition plots and visualizations. We will examine the relationship between different variables and the tips given. Click HERE to read full 
 
 ## 2. Data description
 ### a. Source of the data
