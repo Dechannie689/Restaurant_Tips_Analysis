@@ -13,7 +13,7 @@ The dataset consists of information from 244 restaurant bills, collected in the 
 ## 4. Results
 Here are key insights related to tipping behaviors:
 - Both smokers and non-smokers tend to tip more at amounts under $4.
-- Smokers have a tendency to tip more than non-smokers; however, they do not significantly impact overall tip amounts.
+- Smokers have a tendency to tip more than non-smokers. However, they do not significantly impact overall tip amounts.
 - Male customers tend to tip higher, especially on weekends.
 - High tippers generally prefer dinner service.
 
